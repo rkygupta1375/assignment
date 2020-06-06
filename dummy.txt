@@ -1,0 +1,11 @@
+FROM
+Your name
+your@mail.com
+Your fancy street,
+The Big AppleTO
+Awesome Client
+yourclient@mail.com
+Your fancy street,
+The Big AppleInvoice #123Invoice descriptionINVOICE DATESERVICE DESCRIPTIONQTYRATEAMOUNT03/22/19Wireframes for Landing PageLogo designEXPENSE DESCRIPTIONInternet bills21$500$1,000$500$500TOTAL SERVICES $1,500.00QTY1AMOUNT$82.60TOTAL EXPENSES $82.60DISCOUNT-$150.00TAX (5%)$71.63INVOICE DUE
+03/22/19PAYMENT INFORMATION
+Bank account number or PayPal account here.THIS INVOICE WAS GENERATED WITH CARE BY AND CO FROM FIVERRTOTAL$1,504.23PAY INVOICE ONLINE(Add a link to your online payment methods here) 
