@@ -120,7 +120,7 @@ class ParseDocument(APIView):
         pk = kwargs['pk']
         related_object = File.objects.get(id=pk)
         filename = os.getcwd()+os.sep+'media'+os.sep+str(related_object.file)
-        tables = tabula.read_pdf(filename,)
+        tables = tabula.read_pdf(filename, pages = "all",multiple_tables = True)
         # print(filename,type(filename))
         item_data_dict = {}
         keyword_dict = {'from':'','to':'','bill to':'','ship to':'','billed to':'','shipped to':'','vender':'','seller':'','invoice':'','invoice date':'','total amount':'','order number':''}
