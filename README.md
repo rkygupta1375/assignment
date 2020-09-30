@@ -5,11 +5,11 @@
              
 # Normal User Api Endpoint:-> 
 
-              1) upload pdf invoice->   url =>   ** localhost:8000/invoices/upload/ **
+               upload pdf invoice->   url =>   ** localhost:8000/invoices/upload/ **
                                         method => Post
                                         method body = > variable => "file" (of type file)
                                         
-               2) View Status of upload invoice using primary key =>   url => localhost:8000/invoices/status/primary key of uploaded file/
+               View Status of upload invoice using primary key =>   url => localhost:8000/invoices/status/primary key of uploaded file/
                                                                       eg :=> localhost:8000/invoices/status/1/
                                                                       method => Get
                                           
