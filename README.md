@@ -5,7 +5,7 @@
              
 # Normal User Api Endpoint:-> 
 
-              > upload pdf invoice->   url =>   `**localhost**` :8000/invoices/upload/
+              > upload pdf invoice->   url =>   #####localhost` :8000/invoices/upload/
                                         method => Post
                                         method body = > variable => "file" (of type file)
                                         
